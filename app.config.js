@@ -3,8 +3,8 @@ import 'dotenv/config';
 
 export default {
   expo: {
-    name: "your-app-name",
-    slug: "your-app-slug",
+    name: "club-tenis-estadio-nacional-app",
+    slug: "clubtenisestadionacionalapp",
     extra: {
       firebaseApiKey: process.env.FIREBASE_API_KEY,
       firebaseAuthDomain: process.env.FIREBASE_AUTH_DOMAIN,
